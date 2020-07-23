@@ -1,16 +1,20 @@
-### Hi there 👋
+### Salve ✌️
 
-<!--
-**ricardokojo/ricardokojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ricardo Hideki Hangai Kojo, a CS undergraduate at University of São Paulo and currently President of the universitary extension group [🧪 USPCodeLab](https://codelab.ime.usp.br).
 
-Here are some ideas to get you started:
+Experimenting with 🎨 CSS art and 🎞️ animations, so check out my CodePen!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+	<a href="https://github.com/ricardokojo">
+        <img src="https://img.shields.io/github/followers/ricardokojo.svg?&label=GitHub&style=social&logo=github" alt="GitHub">
+    </a>
+    <a href="https://gitlab.com/ricardokojo/">
+        <img src="https://img.shields.io/badge/GitLab--_.svg?style=social&logo=gitlab" alt="GitLab">
+    </a>
+	<a href="https://www.linkedin.com/in/ricardokojo">
+        <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
+    </a>
+	<a href="https://codepen.io/ricardokojo/">
+        <img src="https://img.shields.io/badge/CodePen--_.svg?style=social&logo=codepen" alt="CodePen">
+    </a>
+</p>
