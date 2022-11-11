@@ -2,10 +2,8 @@
 
 I'm Ricardo Hideki Hangai Kojo:
 - Frontend Software Engineer at Elo7;
-- CS undergraduate at University of São Paulo;
-- Current President of the universitary extension group [🧪 USPCodeLab](https://codelab.ime.usp.br).
-
-Experimenting with 🎨 CSS art and 🎞️ animations, so check out my CodePen!
+- B.Sc. CS at University of São Paulo (still recovering from it);
+- Ex-president of the universitary extension group [🧪 USPCodeLab](https://codelab.ime.usp.br).
 
 <p align="left">
     <a href="https://codepen.io/ricardokojo/" style='text-decoration: none'>
