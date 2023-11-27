@@ -1,21 +1,21 @@
 ### ✌️ Salve
 
 I'm Ricardo Hideki Hangai Kojo:
-- Frontend Software Engineer at Elo7;
+- Frontend Software Engineer (unemployed, hire me!);
 - B.Sc. CS at University of São Paulo (still recovering from it);
 - Ex-president of the universitary extension group [🧪 USPCodeLab](https://codelab.ime.usp.br).
 
-<p align="left">
-    <a href="https://codepen.io/ricardokojo/" style='text-decoration: none'>
+<p align="left" style='text-decoration: none'>
+    <a href="https://codepen.io/ricardokojo/">
         <img src="https://img.shields.io/badge/CodePen-%23111827.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen (external link)">
     </a>
-    <a href="https://gitlab.com/ricardokojo/" style='text-decoration: none'>
+    <a href="https://gitlab.com/ricardokojo/">
         <img src="https://img.shields.io/badge/GitLab-%23FCA121.svg?&style=for-the-badge&logo=gitlab&logoColor=white"  alt="GitLab (external link)">
     </a>
-	<a href="https://www.linkedin.com/in/ricardokojo" style='text-decoration: none'>
+	<a href="https://www.linkedin.com/in/ricardokojo">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn (external link)">
     </a>
-    <a href="https://ricardokojo.github.io/" style='text-decoration: none'>
+    <a href="https://ricardokojo.github.io/">
         <img src="https://img.shields.io/badge/Personal_Site-%23F9FAFB.svg?&style=for-the-badge&logo=github&logoColor=black" alt="Personal website (external link)">
     </a>
 </p>
