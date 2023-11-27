@@ -5,19 +5,12 @@ I'm Ricardo Hideki Hangai Kojo:
 - B.Sc. CS at University of São Paulo (still recovering from it);
 - Ex-president of the universitary extension group [🧪 USPCodeLab](https://codelab.ime.usp.br).
 
-<p align="left" style='text-decoration: none'>
-    <a href="https://codepen.io/ricardokojo/">
-        <img src="https://img.shields.io/badge/CodePen-%23111827.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen (external link)">
-    </a>
-    <a href="https://gitlab.com/ricardokojo/">
-        <img src="https://img.shields.io/badge/GitLab-%23FCA121.svg?&style=for-the-badge&logo=gitlab&logoColor=white"  alt="GitLab (external link)">
-    </a>
-	<a href="https://www.linkedin.com/in/ricardokojo">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn (external link)">
-    </a>
-    <a href="https://ricardokojo.github.io/">
-        <img src="https://img.shields.io/badge/Personal_Site-%23F9FAFB.svg?&style=for-the-badge&logo=github&logoColor=black" alt="Personal website (external link)">
-    </a>
+<p>
+    <a href="https://codepen.io/ricardokojo/"><img src="https://img.shields.io/badge/CodePen-%23111827.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen (external link)"></a>
+	<a href="https://dev.to/ricardokojo"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"  alt="dev.to (external link)"></a>
+    <a href="https://gitlab.com/ricardokojo/"><img src="https://img.shields.io/badge/GitLab-%23FCA121.svg?&style=for-the-badge&logo=gitlab&logoColor=white"  alt="GitLab (external link)"></a>
+	<a href="https://www.linkedin.com/in/ricardokojo"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn (external link)"></a>
+    <a href="https://ricardokojo.github.io/"><img src="https://img.shields.io/badge/Personal_Site-%23F9FAFB.svg?&style=for-the-badge&logo=github&logoColor=black" alt="Personal website (external link)"></a>
 </p>
 
 ### 🛠️ Working with
@@ -36,7 +29,7 @@ I'm Ricardo Hideki Hangai Kojo:
     <img src="https://img.shields.io/badge/VSCode-%23F9FAFB.svg?&style=flat-square&logo=visual-studio-code&logoColor=%23007ACC" alt="">
     <img src="https://img.shields.io/badge/Git-%23F9FAFB.svg?&style=flat-square&logo=git&logoColor=%23F05032" alt="">
     <img src="https://img.shields.io/badge/GitHub-%23F9FAFB.svg?&style=flat-square&logo=github&logoColor=black" alt="">
-    <img src="https://img.shields.io/badge/Manjaro-%23F9FAFB.svg?&style=flat-square&logo=manjaro&logoColor=%2335BF5C" alt="">
+    <img src="https://img.shields.io/badge/MInt-%23F9FAFB.svg?&style=flat-square&logo=linuxmint&logoColor=%2387CF3E" alt="">
 </p>
 
 ### 💛 Used and recommend
