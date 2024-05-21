@@ -1,8 +1,8 @@
 ### ✌️ Salve
 
 I'm Ricardo Hideki Hangai Kojo:
-- Frontend Software Engineer (unemployed, hire me!);
-- B.Sc. CS at University of São Paulo (still recovering from it);
+- Frontend Software Engineer at [Wellhub (formerly Gympass)](https://wellhub.com);
+- B.Sc. CS at University of São Paulo;
 - Ex-president of the universitary extension group [🧪 USPCodeLab](https://codelab.ime.usp.br).
 
 <p>
